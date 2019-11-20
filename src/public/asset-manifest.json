@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.63b35f7a.chunk.css",
+    "main.js": "/static/js/main.55626190.chunk.js",
+    "main.js.map": "/static/js/main.55626190.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.9a008ecd.chunk.css": "/static/css/2.9a008ecd.chunk.css",
+    "static/js/2.930a2187.chunk.js": "/static/js/2.930a2187.chunk.js",
+    "static/js/2.930a2187.chunk.js.map": "/static/js/2.930a2187.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.44b92705a73f23a60a1d98dd3a1f2370.js": "/precache-manifest.44b92705a73f23a60a1d98dd3a1f2370.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.9a008ecd.chunk.css.map": "/static/css/2.9a008ecd.chunk.css.map",
+    "static/css/main.63b35f7a.chunk.css.map": "/static/css/main.63b35f7a.chunk.css.map",
+    "static/media/style-home.css": "/static/media/shape-overlay-bg.a11deb2b.jpg",
+    "static/media/style.css.map": "/static/media/style.css.3fcfc29b.map",
+    "static/media/style-font.css": "/static/media/themefisher-font.bf32119c.woff"
+  }
+}
